@@ -9,7 +9,7 @@
 
 ## Running Development Stage
 ```
-git clone https://github.com/nghoanglong/IS220.N12.HTCL.git
+git clone https://github.com/ngocthoai1703/pinterest_code_react.git
 
 docker compose build
 
